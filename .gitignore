@@ -1,0 +1,9 @@
+# student data and the instructor password never go to GitHub
+data/
+*.sqlite
+*.sqlite-wal
+*.sqlite-shm
+.Rhistory
+.RData
+.Rproj.user/
+__pycache__/
